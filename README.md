@@ -27,7 +27,7 @@ Industrial automation • Linux tooling • Field service • IP cameras • Hom
 - [linux-media-fix-tools](https://github.com/EmergencyRx/linux-media-fix-tools)  
   Practical tools to fix Linux audio/video issues.
 
-*(Additional private: homelab-infra, BiGdIcKsWiNgInG.)*
+*(Additional private: homelab-infra, etc.)*
 
 
 
