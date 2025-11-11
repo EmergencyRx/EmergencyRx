@@ -1,28 +1,47 @@
-# Timothy Bauer
+# Timothy Bauer (EmergencyRx)
 
 Electro-Mechanical Technician & Linux Engineer  
 Industrial automation • Linux tooling • Field service • IP cameras • Homelab & security
 
-- 🏭 10+ years keeping high-speed production & packaging equipment running
-- 💻 Arch/Linux power user — automation, observability, secure configs, custom tooling
-- 📷 IP cameras, ALPR-style systems, NVRs, outdoor enclosures
-- 🧠 Strong in: troubleshooting, RCA, documentation, training, standardization
+-  10+ years keeping high-speed production & packaging equipment running
+-  Arch/Linux power user — automation, observability, security-hardening, homelab design
+-  IP cameras, ALPR-style systems, NVRs, outdoor/NEMA enclosures, low-voltage
+-  Strengths: troubleshooting, RCA, documentation, standardization, training
 
-## 🔧 Flagship Projects
+---
 
-- [SmileOS Tools](https://github.com/EmergencyRx/smileos-tools) – Linux automation toolkit.
-- [Industrial Maintenance Playbook](https://github.com/EmergencyRx/industrial-maintenance-playbook) – PMs, RCAs, SOPs.
-- [Field Tech Toolkit](https://github.com/EmergencyRx/field-tech-toolkit) – IP cameras & edge Linux.
-- [Homelab Infra](https://github.com/EmergencyRx/homelab-infra) – Reproducible lab & infra-as-config.
-- [Network Lab](https://github.com/EmergencyRx/network-lab) – Networking & security practice.
-- [Linux Media Fix Tools](https://github.com/EmergencyRx/linux-media-fix-tools) – Practical fixes for Linux media issues.
+##  Flagship Projects
 
-## 📂 Project Status
+- [smileos-tools](https://github.com/EmergencyRx/smileos-tools)  
+  Linux/Arch automation toolkit: backups, QoS, Tor toggle, diagnostics.
 
-I mark repos clearly:
+- [industrial-maintenance-playbook](https://github.com/EmergencyRx/industrial-maintenance-playbook)  
+  PM checklists, SOPs, RCA templates for real plants.
 
-- ✅ **Stable** – Used in real environments, documented.
-- 🚧 **In Progress** – Actively developed with roadmap.
-- 🌱 **Experimental** – Prototype / learning, still evolving.
+- [field-tech-toolkit](https://github.com/EmergencyRx/field-tech-toolkit)  
+  Scripts & docs for Linux PCs, IP cameras, roadside/edge systems.
 
-I treat this GitHub like production: clear scope, honest status, practical results.
+- [network-lab](https://github.com/EmergencyRx/network-lab)  
+  Hands-on networking & security lab scenarios.
+
+- [linux-media-fix-tools](https://github.com/EmergencyRx/linux-media-fix-tools)  
+  Practical tools to fix Linux audio/video issues.
+
+*(Additional private: homelab-infra, BiGdIcKsWiNgInG.)*
+
+
+
+## Project Status Model
+
+I keep repos labeled so usage is clear:
+
+- **Stable** – Used in real environments, documented, versioned.
+- **In Progress** – Actively developed, safe to try, evolving.
+- **Experimental** – Prototypes / labs / learning projects.
+  
+## Working Style
+
+- Clear READMEs, real-world use cases.
+- Prefer scripts and docs that a tech can run at 2am without guessing.
+- Open to collaboration, feedback, and roles where this mindset fits.
+
